@@ -39,9 +39,55 @@ blocks:
   width: 800
   x: 1796
   y: 212
+- auto_size: false
+  canvas_id: 39c21cd2-ad81-4052-91d2-c25fd2f71866
+  cpu: null
+  description: ''
+  height: 500
+  id: 0c0dfbd6-090c-40de-861c-ad84cd15f929
+  is_fargate: false
+  layer_id: 69d86fdd-9815-4042-847b-3ecd93644e2a
+  memory: null
+  name: ''
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 2716
+  y: 212
+- auto_size: false
+  canvas_id: 39c21cd2-ad81-4052-91d2-c25fd2f71866
+  cpu: null
+  description: ''
+  height: 500
+  id: 6adca210-8b04-4ee1-b157-b58d212256ef
+  is_fargate: false
+  layer_id: 69d86fdd-9815-4042-847b-3ecd93644e2a
+  memory: null
+  name: ''
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 2716
+  y: 832
 edges:
 - canvas_id: 39c21cd2-ad81-4052-91d2-c25fd2f71866
   id: 4671de7f-4368-4d21-9442-ed1ac90e1d72
   layer_id: 69d86fdd-9815-4042-847b-3ecd93644e2a
   source: 57917fe6-518a-4778-92ab-af689850382c
   target: 9cf43eae-4fb3-478d-adc0-4648e746275f
+- canvas_id: 39c21cd2-ad81-4052-91d2-c25fd2f71866
+  id: fa5d935e-c6da-4f35-b9ca-37e1338a0555
+  layer_id: 69d86fdd-9815-4042-847b-3ecd93644e2a
+  source: 9cf43eae-4fb3-478d-adc0-4648e746275f
+  target: 0c0dfbd6-090c-40de-861c-ad84cd15f929
+- canvas_id: 39c21cd2-ad81-4052-91d2-c25fd2f71866
+  id: 701d9545-874d-400c-ba69-9cd8eab61f9f
+  layer_id: 69d86fdd-9815-4042-847b-3ecd93644e2a
+  source: 9cf43eae-4fb3-478d-adc0-4648e746275f
+  target: 6adca210-8b04-4ee1-b157-b58d212256ef
