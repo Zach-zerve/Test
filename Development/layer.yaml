@@ -1,35 +1,17 @@
-id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
+id: b96e3bbb-9d40-4529-bfdd-e6b9aa9b01ee
 name: Development
 type: 1
-canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
+canvas_id: d3d01f11-4f59-4b39-8947-ee067ba44a4c
 blocks:
 - auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
+  canvas_id: d3d01f11-4f59-4b39-8947-ee067ba44a4c
+  compute_environment_type: 1
+  cpu: 2048
   description: ''
   height: 500
-  id: 1032f7e8-cebf-4786-97e1-8184feb3bb72
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 2
-  type: 1
-  variables: null
-  width: 800
-  x: 1840
-  y: -130
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: f7b1b58a-ebe5-4d05-9e88-0e9e0a88b0e9
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
+  id: 691b5010-7113-4d3b-8d32-216d1cf0d841
+  layer_id: b96e3bbb-9d40-4529-bfdd-e6b9aa9b01ee
+  memory: 16384
   name: ''
   parent_id: null
   properties: {}
@@ -37,17 +19,17 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 2760
-  y: -130
+  x: 1945
+  y: 247
 - auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
+  canvas_id: d3d01f11-4f59-4b39-8947-ee067ba44a4c
+  compute_environment_type: 1
+  cpu: 2048
   description: ''
   height: 500
-  id: 2944bbd3-8abb-49ce-8a1d-463db622d9a6
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
+  id: 87fb0414-28f6-46f7-b5ba-1ee0f106d8ba
+  layer_id: b96e3bbb-9d40-4529-bfdd-e6b9aa9b01ee
+  memory: 16384
   name: ''
   parent_id: null
   properties: {}
@@ -55,17 +37,17 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 2779
-  y: 490
+  x: 105
+  y: 247
 - auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
+  canvas_id: d3d01f11-4f59-4b39-8947-ee067ba44a4c
+  compute_environment_type: 1
+  cpu: 2048
   description: ''
   height: 500
-  id: bc6bf066-ad3a-4336-8776-7a8704cf1633
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
+  id: d23722e7-61a0-444c-ab89-aa445633b72c
+  layer_id: b96e3bbb-9d40-4529-bfdd-e6b9aa9b01ee
+  memory: 16384
   name: ''
   parent_id: null
   properties: {}
@@ -73,263 +55,16 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 5520
-  y: -130
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: 1521910c-8102-41e1-84bd-84b252e98e2e
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 3
-  type: 1
-  variables: null
-  width: 800
-  x: -1228
-  y: -129
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: 3cb05e05-26ed-4562-83b2-74c1469bad7d
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: 2760
-  y: -750
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: e0191c41-a501-48df-987f-90b4155c054f
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: 3680
-  y: -750
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: 5dbf9863-2102-456a-8b90-6330eaa88dce
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: 4600
-  y: -440
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: 1cf705ae-01d8-4393-a884-10d7d9acd492
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: 6440
-  y: -130
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: b4fc4d35-cef7-4545-a323-c04609757fbf
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 3
-  type: 1
-  variables: null
-  width: 800
-  x: -308
-  y: -130
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: d224044e-da17-4421-afc7-d6abfa2ab4f6
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 2
-  variables: null
-  width: 800
-  x: 1230
-  y: 902
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: f767e025-fda0-45a7-aa38-0aa5419f60a2
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties:
-    connection_id: null
-    output_variable: df
-  status: 1
-  type: 3
-  variables: null
-  width: 800
-  x: 2644
-  y: 1110
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: 1e0fb24b-f6c4-4a0e-9fe0-11e36a120303
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: 611
-  y: -130
-- auto_size: false
-  canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  cpu: null
-  description: ''
-  height: 500
-  id: 50bba825-75ad-48dd-b363-23018e2ca05f
-  is_fargate: false
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  memory: null
-  name: ''
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: 1531
-  y: 1522
+  x: 1025
+  y: 247
 edges:
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 5d370c9f-6496-48f7-84a8-b257e633e91c
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: 1521910c-8102-41e1-84bd-84b252e98e2e
-  target: b4fc4d35-cef7-4545-a323-c04609757fbf
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 384af900-13a2-433f-8d73-304b84938c94
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: b4fc4d35-cef7-4545-a323-c04609757fbf
-  target: 1032f7e8-cebf-4786-97e1-8184feb3bb72
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 14ca3710-1a87-4d18-818b-99b11fd9e78e
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: 1032f7e8-cebf-4786-97e1-8184feb3bb72
-  target: 3cb05e05-26ed-4562-83b2-74c1469bad7d
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: f49e6881-fe4c-4ad1-99e8-9c6e1228c024
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: 1032f7e8-cebf-4786-97e1-8184feb3bb72
-  target: f7b1b58a-ebe5-4d05-9e88-0e9e0a88b0e9
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: d7ae21e9-626e-4755-8965-cfe6719596f3
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: 1032f7e8-cebf-4786-97e1-8184feb3bb72
-  target: 2944bbd3-8abb-49ce-8a1d-463db622d9a6
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 03ccc391-2844-42f4-9ab3-083c4844209b
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: 3cb05e05-26ed-4562-83b2-74c1469bad7d
-  target: e0191c41-a501-48df-987f-90b4155c054f
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: c978b3f5-7a00-437c-abe6-71c1528ab76a
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: e0191c41-a501-48df-987f-90b4155c054f
-  target: 5dbf9863-2102-456a-8b90-6330eaa88dce
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 77d3ecd2-4c4b-4831-9fab-3d5ce580538c
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: f7b1b58a-ebe5-4d05-9e88-0e9e0a88b0e9
-  target: 5dbf9863-2102-456a-8b90-6330eaa88dce
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 9840d341-535d-4c8e-ac5c-95d7775ab801
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: 5dbf9863-2102-456a-8b90-6330eaa88dce
-  target: bc6bf066-ad3a-4336-8776-7a8704cf1633
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 49c3e223-b742-4d0b-9b9e-f0342559475a
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: 2944bbd3-8abb-49ce-8a1d-463db622d9a6
-  target: bc6bf066-ad3a-4336-8776-7a8704cf1633
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: f156c375-76eb-4b0a-8158-508a036bc65b
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: bc6bf066-ad3a-4336-8776-7a8704cf1633
-  target: 1cf705ae-01d8-4393-a884-10d7d9acd492
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 14cb8ff7-d3c7-40f2-b87d-b80a65ae5c38
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: b4fc4d35-cef7-4545-a323-c04609757fbf
-  target: d224044e-da17-4421-afc7-d6abfa2ab4f6
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 70e761b6-1cc9-4468-93b6-65aae5eb95f8
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: d224044e-da17-4421-afc7-d6abfa2ab4f6
-  target: f767e025-fda0-45a7-aa38-0aa5419f60a2
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: e9598e68-b710-4b53-9d53-5160eea45153
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: b4fc4d35-cef7-4545-a323-c04609757fbf
-  target: 1e0fb24b-f6c4-4a0e-9fe0-11e36a120303
-- canvas_id: e4b4abd8-c3f7-4473-ae2a-4f35c0a0508e
-  id: 4e722d5f-08c2-47ee-8a02-cdfb4f3ef349
-  layer_id: 89fd02fa-86a7-479c-99f3-80a46d211e5b
-  source: 1e0fb24b-f6c4-4a0e-9fe0-11e36a120303
-  target: 50bba825-75ad-48dd-b363-23018e2ca05f
+- canvas_id: d3d01f11-4f59-4b39-8947-ee067ba44a4c
+  id: 973c3641-a8ba-476d-9e2b-efa8a4c79f94
+  layer_id: b96e3bbb-9d40-4529-bfdd-e6b9aa9b01ee
+  source: 87fb0414-28f6-46f7-b5ba-1ee0f106d8ba
+  target: d23722e7-61a0-444c-ab89-aa445633b72c
+- canvas_id: d3d01f11-4f59-4b39-8947-ee067ba44a4c
+  id: 23ca683a-985f-4d2f-8cf0-caf3f978ae94
+  layer_id: b96e3bbb-9d40-4529-bfdd-e6b9aa9b01ee
+  source: d23722e7-61a0-444c-ab89-aa445633b72c
+  target: 691b5010-7113-4d3b-8d32-216d1cf0d841
